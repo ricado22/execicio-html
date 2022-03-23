@@ -1,0 +1,10 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    background-color: beige;
+}
+th{
+    background-color: aqua;
+    color: rgb(221, 39, 39);
+}
